@@ -8,4 +8,4 @@ predelivered music collected from http://modarchive.org
 soundengine: bass.dll from https://www.un4seen.com
 \
 no predefined tetronimos, shardcount will be above 4 from a certain level, they'll "mutate" dynamically.
-![image](SampleShot.PNG)
+![image](SampleShot.JPG)
